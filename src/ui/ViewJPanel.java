@@ -601,7 +601,7 @@ public class ViewJPanel extends javax.swing.JPanel {
         txtBrand.setText(prod.getBrand());
         txtModel.setText(String.valueOf(prod.getModel()));
         txtColor.setText(prod.getColor());
-//        txtYear.setText(String.valueOf(prod.getYear()));
+        txtYear.setText(String.valueOf(prod.getCarYear()));
         txtEngineNo.setText(String.valueOf(prod.getEngineNo()));
         txtSeatsNo.setText(String.valueOf(prod.getSeatsNo()));
         txtLicensePlates.setText(prod.getLicensePlates());
@@ -613,7 +613,6 @@ public class ViewJPanel extends javax.swing.JPanel {
         txtOwnerSocialSecurityNo.setText(prod.getOwnerSocialSecurityNo());
         txtServiceRecord.setText(prod.getServiceRecords());
         txtWarrentyYear.setText(String.valueOf(prod.getWarrantyYear()));
-//        lblImageView.setIcon((new ImageIcon(prod.getPhoto())));
         lblViewImg.setIcon(new ImageIcon(prod.getPhoto()));
         }
     }

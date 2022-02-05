@@ -20,140 +20,6 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Group type="102" attributes="0">
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
-                      <Group type="102" attributes="0">
-                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
-                          <Component id="lblOwnerSocialSecurityNo" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace min="59" pref="59" max="-2" attributes="0"/>
-                          <Component id="txtOwnerSocialSecurityNo" min="-2" pref="122" max="-2" attributes="0"/>
-                      </Group>
-                      <Group type="102" attributes="0">
-                          <EmptySpace min="26" pref="26" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="1" attributes="0">
-                              <Group type="102" attributes="0">
-                                  <Component id="lblServiceRecords" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace max="32767" attributes="0"/>
-                                  <Component id="txtServiceRecord" min="-2" pref="122" max="-2" attributes="0"/>
-                              </Group>
-                              <Group type="102" attributes="0">
-                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                  <Group type="103" groupAlignment="1" max="-2" attributes="0">
-                                      <Group type="102" attributes="0">
-                                          <Component id="lblOwnerAddress" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace min="-2" pref="115" max="-2" attributes="0"/>
-                                          <Component id="txtOwnerAddress" min="-2" pref="122" max="-2" attributes="0"/>
-                                      </Group>
-                                      <Group type="102" attributes="0">
-                                          <Component id="lblWarrentyYear" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace min="-2" pref="124" max="-2" attributes="0"/>
-                                          <Component id="txtWarrentyYear" min="-2" pref="122" max="-2" attributes="0"/>
-                                      </Group>
-                                      <Group type="102" alignment="1" attributes="0">
-                                          <Component id="lblPhoto" min="-2" max="-2" attributes="0"/>
-                                          <EmptySpace max="32767" attributes="0"/>
-                                          <Group type="103" groupAlignment="0" attributes="0">
-                                              <Group type="102" attributes="0">
-                                                  <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
-                                                  <Component id="btnSave" min="-2" max="-2" attributes="0"/>
-                                              </Group>
-                                              <Component id="txtPhoto" min="-2" pref="122" max="-2" attributes="0"/>
-                                          </Group>
-                                      </Group>
-                                  </Group>
-                              </Group>
-                          </Group>
-                      </Group>
-                  </Group>
-                  <Group type="102" attributes="0">
-                      <EmptySpace min="26" pref="26" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblBrand" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="114" pref="114" max="-2" attributes="0"/>
-                                      <Component id="txtBrand" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblModel" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtModel" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblColor" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtColor" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblYear" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtYear" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblEngineNo" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtEngineNo" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                              </Group>
-                              <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="lblServiceCompany" min="-2" max="-2" attributes="0"/>
-                                  <Component id="lblServiceEstimate" min="-2" max="-2" attributes="0"/>
-                                  <Component id="lblServiceDate" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                          <Component id="lblTitle" min="-2" pref="596" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="lblSeatsNo" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <EmptySpace min="26" pref="26" max="-2" attributes="0"/>
-                                      <Component id="lblLicensePlates" min="-2" pref="100" max="-2" attributes="0"/>
-                                  </Group>
-                              </Group>
-                              <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="txtSeatsNo" min="-2" pref="122" max="-2" attributes="0"/>
-                                      <EmptySpace min="-2" pref="78" max="-2" attributes="0"/>
-                                      <Component id="btnUploadImage" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtLicensePlates" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblOwnerDriverLiscence" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtOwnerDriverLiscence" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblOwnerEmailAddress" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtOwnerEmailAddress" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblOwnerName" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtOwnerName" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <Component id="lblTelephoneNo" min="-2" pref="100" max="-2" attributes="0"/>
-                                      <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
-                                      <Component id="txtOwnerTelephoneNo" min="-2" pref="122" max="-2" attributes="0"/>
-                                  </Group>
-                              </Group>
-                              <EmptySpace pref="177" max="32767" attributes="0"/>
-                              <Component id="lblImageUpload" min="-2" pref="151" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                  </Group>
-              </Group>
-              <EmptySpace min="-2" pref="128" max="-2" attributes="0"/>
-          </Group>
           <Group type="102" alignment="1" attributes="0">
               <EmptySpace max="32767" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
@@ -173,6 +39,108 @@
                   </Group>
               </Group>
           </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="lblOwnerSocialSecurityNo" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="txtOwnerSocialSecurityNo" min="-2" pref="122" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="lblPhoto" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="btnSave" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="btnUploadImage" alignment="1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="lblWarrentyYear" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="47" max="-2" attributes="0"/>
+                              <Component id="txtWarrentyYear" min="-2" pref="122" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="lblOwnerAddress" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                                  <Component id="txtOwnerAddress" min="-2" pref="122" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="lblServiceRecords" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Component id="txtServiceRecord" min="-2" pref="122" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="26" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblOwnerName" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblTelephoneNo" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblOwnerEmailAddress" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblOwnerDriverLiscence" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtOwnerDriverLiscence" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtOwnerName" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtOwnerEmailAddress" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtOwnerTelephoneNo" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="343" max="32767" attributes="0"/>
+                      <Component id="lblImageUpload" min="-2" pref="261" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblBrand" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblModel" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblColor" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblYear" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblEngineNo" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtYear" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtColor" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtModel" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtBrand" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtEngineNo" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblSeatsNo" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="lblLicensePlates" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtSeatsNo" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="txtLicensePlates" min="-2" pref="122" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                      <Component id="lblTitle" min="-2" pref="596" max="-2" attributes="0"/>
+                      <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                          <Component id="lblServiceDate" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblServiceEstimate" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="lblServiceCompany" alignment="1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="93" max="-2" attributes="0"/>
+          </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
@@ -180,154 +148,128 @@
           <Group type="102" attributes="0">
               <EmptySpace max="-2" attributes="0"/>
               <Component id="lblTitle" min="-2" max="-2" attributes="0"/>
-              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="1" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="1" attributes="0">
-                          <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
-                                      <Component id="lblBrand" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="103" groupAlignment="3" attributes="0">
-                                      <Component id="txtBrand" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      <Component id="lblServiceDate" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      <Component id="txtServiceDate" alignment="3" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                              </Group>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="8" pref="8" max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="lblModel" min="-2" max="-2" attributes="0"/>
-                                          <Component id="txtModel" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="3" attributes="0">
-                                          <Component id="lblServiceEstimate" alignment="3" min="-2" max="-2" attributes="0"/>
-                                          <Component id="txtServiceEstimate" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                              </Group>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="lblColor" min="-2" max="-2" attributes="0"/>
-                                          <Component id="txtColor" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                      <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="3" attributes="0">
-                                          <Component id="lblYear" alignment="3" min="-2" max="-2" attributes="0"/>
-                                          <Component id="txtYear" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
-                                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="3" attributes="0">
-                                          <Component id="lblServiceCompany" alignment="3" min="-2" max="-2" attributes="0"/>
-                                          <Component id="txtServiceCompany" alignment="3" min="-2" max="-2" attributes="0"/>
-                                      </Group>
-                                  </Group>
-                              </Group>
-                              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
-                                      <Component id="lblEngineNo" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtEngineNo" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
-                                      <Component id="lblSeatsNo" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtSeatsNo" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="-2" pref="169" max="-2" attributes="0"/>
-                              <Component id="btnUploadImage" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
+                      <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                      <Component id="lblBrand" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblServiceDate" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtServiceDate" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="txtBrand" alignment="1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="lblLicensePlates" alignment="3" min="-2" max="-2" attributes="0"/>
-                          <Component id="txtLicensePlates" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lblModel" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtModel" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="1" attributes="0">
-                          <Group type="102" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                                      <Component id="lblOwnerName" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtOwnerName" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
-                                      <Component id="lblTelephoneNo" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtOwnerTelephoneNo" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                                      <Component id="lblOwnerEmailAddress" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtOwnerEmailAddress" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
-                                      <Component id="lblOwnerDriverLiscence" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtOwnerDriverLiscence" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                                      <Component id="lblOwnerSocialSecurityNo" min="-2" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Component id="txtOwnerSocialSecurityNo" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                          </Group>
-                          <Component id="lblImageUpload" min="-2" pref="168" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                      <Component id="lblOwnerAddress" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                      <Component id="lblServiceRecords" min="-2" max="-2" attributes="0"/>
                   </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblServiceEstimate" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtServiceEstimate" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
-                      <Component id="txtOwnerAddress" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="txtServiceRecord" min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblColor" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtColor" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblYear" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtYear" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
                   </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblServiceCompany" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtServiceCompany" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Component id="lblEngineNo" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="txtEngineNo" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblSeatsNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtSeatsNo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="txtLicensePlates" min="-2" max="-2" attributes="0"/>
+                  <Component id="lblLicensePlates" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblOwnerName" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtOwnerName" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblTelephoneNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtOwnerTelephoneNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblOwnerEmailAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtOwnerEmailAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblOwnerDriverLiscence" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtOwnerDriverLiscence" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="lblOwnerSocialSecurityNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtOwnerSocialSecurityNo" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                      <Component id="lblImageUpload" min="-2" pref="168" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblOwnerAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtOwnerAddress" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblServiceRecords" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txtServiceRecord" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="unrelated" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="lblWarrentyYear" alignment="3" min="-2" max="-2" attributes="0"/>
                   <Component id="txtWarrentyYear" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
-              <EmptySpace type="unrelated" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="1" attributes="0">
-                  <Component id="txtPhoto" min="-2" max="-2" attributes="0"/>
-                  <Component id="lblPhoto" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="lblPhoto" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnUploadImage" alignment="3" min="-2" max="-2" attributes="0"/>
               </Group>
-              <EmptySpace max="32767" attributes="0"/>
+              <EmptySpace pref="82" max="32767" attributes="0"/>
               <Component id="btnSave" min="-2" max="-2" attributes="0"/>
               <EmptySpace max="-2" attributes="0"/>
           </Group>
@@ -457,6 +399,7 @@
     <Component class="javax.swing.JTextField" name="txtYear">
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtYearActionPerformed"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="txtYearKeyPressed"/>
       </Events>
     </Component>
     <Component class="javax.swing.JTextField" name="txtLicensePlates">
@@ -497,11 +440,6 @@
     <Component class="javax.swing.JTextField" name="txtServiceRecord">
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtServiceRecordActionPerformed"/>
-      </Events>
-    </Component>
-    <Component class="javax.swing.JTextField" name="txtPhoto">
-      <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtPhotoActionPerformed"/>
       </Events>
     </Component>
     <Component class="javax.swing.JButton" name="btnSave">

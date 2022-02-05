@@ -13,7 +13,7 @@ public class Product {
     private String brand;
     private Integer model;
     private String color;
-//    private Integer year;
+    private Integer carYear;
     private Integer engineNo;
     private Integer seatsNo;
     private String licensePlates;
@@ -38,6 +38,15 @@ public class Product {
 //    public void setYear(Integer year) {
 //        this.year = year;
 //    }
+    
+    
+    public Integer getCarYear() {
+        return carYear;
+    }
+
+    public void setCarYear(Integer carYear) {
+        this.carYear = carYear;
+    }
     
     public String getServiceDate() {
         return serviceDate;
@@ -183,9 +192,9 @@ public class Product {
         this.photo = photo;
     }
     
-    @Override
-    public String toString(){
-        return date;
-    }
+//    @Override
+//    public String toString(String date){
+//        return date;
+//    }
     
 }
